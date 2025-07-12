@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# Flutter
+build/
+.dart_tool/
+.packages
+flutter_app/.idea/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.metadata
+flutter_app/linux/
+flutter_app/macos/
+flutter_app/web/
+flutter_app/windows/
