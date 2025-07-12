@@ -8,3 +8,13 @@ To run the devserver:
 npm install
 npm run dev
 ```
+
+## Flutter version
+
+There is a minimal Flutter port of the app in the `flutter_app` directory.
+To run it you will need the Flutter SDK installed. From the repository root:
+
+```
+cd flutter_app
+flutter run
+```
