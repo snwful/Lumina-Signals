@@ -8,3 +8,10 @@ To run the devserver:
 npm install
 npm run dev
 ```
+
+A Flutter implementation of the homepage is available in `flutter_app`.
+To try it locally (requires Flutter SDK):
+```
+cd flutter_app
+flutter run
+```
